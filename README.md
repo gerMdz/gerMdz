@@ -37,4 +37,7 @@ aunque al ser software libre se puede usar donde lo crean conveniente.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germdz&" alt="germdz" /></p>
 
 <h3 align="left">Support:</h3>
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/germdz)
+
+[comment]: <> ([Invitame un café en cafecito.app]&#40;https://cdn.cafecito.app/imgs/buttons/button_3.svg&#41;]&#40;https://cafecito.app/germdz&#41;)
+
+<p><a href="https://cafecito.app/germdz"> <img align="left" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg" height="50" width="210" alt="ger" /></a></p><br><br>
