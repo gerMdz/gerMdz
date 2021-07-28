@@ -35,3 +35,6 @@ aunque al ser software libre se puede usar donde lo crean conveniente.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=germdz&show_icons=true&locale=en" alt="germdz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germdz&" alt="germdz" /></p>
+
+<h3 align="left">Support:</h3>
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/germdz)
