@@ -36,7 +36,7 @@ aunque al ser software libre se puede usar donde lo crean conveniente.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germdz&" alt="germdz" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">¿Me ayudas?</h3>
 
 [comment]: <> ([Invitame un café en cafecito.app]&#40;https://cdn.cafecito.app/imgs/buttons/button_3.svg&#41;]&#40;https://cafecito.app/germdz&#41;)
 
