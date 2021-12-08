@@ -39,7 +39,15 @@ aunque al ser software libre se puede usar donde lo crean conveniente.
 <h3 align="left">¿Me ayudas?</h3>
 
 [comment]: <> ([Invitame un café en cafecito.app]&#40;https://cdn.cafecito.app/imgs/buttons/button_3.svg&#41;]&#40;https://cafecito.app/germdz&#41;)
-[comment]: <> ([Invitame un café en buymeacoffee]&#40;[];]&#40;https://www.buymeacoffee.com/germdz)
 
 
-<p><a href="https://cafecito.app/germdz"> <img align="left" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg" height="50" width="210" alt="ger" /></a></p><br><br>
+<p><a href="https://cafecito.app/germdz"> <img align="left" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg" height="50" width="210" alt="ger" /></a></p>
+<br/><br/>
+
+<h3 align="left">¿O un café? (En desarrollo)</h3>
+
+<p><a href="https://www.buymeacoffee.com/germdz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Con un café" style="height: 60px !important;width: 217px !important;" ></a></a>
+</p>
+
+
+<br><br>
