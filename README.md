@@ -3,7 +3,7 @@
 - 🔭 Actualmente estoy trabajando en software de servicio para Iglesias
 aunque al ser software libre se puede usar donde lo crean conveniente.
 
-- 🌱 Siempre aprendiendo, ahora estoy con MAUTIC y VUE.js
+- 🌱 Siempre aprendiendo, ahora estoy con MAUTIC, LARAVEL y VUE.js
 
 - 👯 Espero algún día colaborar con alguna línea en [Symfony](https://symfony.com)
 
